@@ -49,8 +49,7 @@
           "maxPerCard": 4
         }
       }
-    }
-  },
+    },
   "gameplay": {
     "Classic": {
       "mulligan": {
