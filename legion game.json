@@ -271,32 +271,6 @@
             }
           ]
         },
-        "autoPlayFromHand": {
-          "Creature": "Creatures",
-          "Artifact": "Other",
-          "Enchantment": "Other",
-          "Sorcery": "Stack",
-          "Instant": "Stack",
-          "Land": "Mana",
-          "Planeswalker": "Other",
-          "Battle": "Other",
-          "Enchantment - Aura": "Stack",
-          "Emblem": "Other",
-          "Card": "Other"
-        },
-        "autoPlayFromStack": {
-          "Creature": "Creatures",
-          "Artifact": "Other",
-          "Enchantment": "Other",
-          "Sorcery": "Discard",
-          "Instant": "Discard",
-          "Land": "Mana",
-          "Planeswalker": "Other",
-          "Battle": "Other",
-          "Enchantment - Aura": "GROUP",
-          "Emblem": "Other",
-          "Card": "Other"
-        },
         "sectionsDict": {
           "Creatures": {
             "title": "Creatures",
