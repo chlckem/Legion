@@ -297,21 +297,9 @@
       }
     },
   },
-  "defaultRessources": {
-    "backgrounds": [
-      "https://i.ibb.co/ZzKYNswJ/z-V2lc-ZW-Imgur.jpg",
-      "https://cdn.imgchest.com/files/a8d13f7db74f.jpeg",
-      "https://cdn.imgchest.com/files/7a25910deab5.jpeg",
-      "https://cdn.imgchest.com/files/e1877d36db68.jpeg",
-      "https://cdn.imgchest.com/files/41d419bedd0b.jpeg",
-      "https://cdn.imgchest.com/files/0959bcceaf01.jpeg",
-      "https://cdn.imgchest.com/files/6aff77db6dbd.jpeg",
-      "https://cdn.imgchest.com/files/197d2805c940.jpeg",
-      "https://cdn.imgchest.com/files/911b1558c5ea.jpeg"
-    ],
   "cards": {
     "dataUrl": "https://chlckem.github.io/legion.json",
     "cardBack": "https://backs.scryfall.io/large/2/2/222b7a3b-2321-4d4c-af19-19338b134971.jpg",
-    "version": 6
+    "version": 1
   }
 }
